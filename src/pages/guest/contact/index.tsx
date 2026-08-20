@@ -61,11 +61,8 @@ export default function ContactPage() {
         
         {/* Header Section */}
         <div className="text-center max-w-2xl mx-auto">
-          <div className="inline-flex items-center space-x-2 border border-yellow-500/30 bg-yellow-500/10 px-3 py-1 rounded-full mb-4">
-            <span className="w-2 h-2 rounded-full bg-yellow-400 animate-pulse" />
-            <span className="text-yellow-400 text-xs tracking-widest uppercase font-mono">
-              &gt; CONNECT_WITH_ME
-            </span>
+          <div>
+          
           </div>
           <h1 className="text-4xl sm:text-5xl font-extrabold text-white tracking-tight">
             Get In <span className="text-yellow-400">Touch</span>
