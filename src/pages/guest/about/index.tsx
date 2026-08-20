@@ -20,9 +20,8 @@ export default function AboutPage() {
               About <span className="text-transparent bg-clip-text bg-gradient-to-r from-yellow-300 via-amber-400 to-yellow-500 drop-shadow-[0_0_15px_rgba(234,179,8,0.3)]">Argel</span>
             </h1>
           </div>
-          <div className="flex items-center gap-2 text-xs font-mono text-neutral-400">
-            <Sparkles className="w-4 h-4 text-yellow-400 animate-spin" style={{ animationDuration: '6s' }} />
-            <span>HOVER CARDS TO INSPECT</span>
+          <div>
+           
           </div>
         </div>
 
