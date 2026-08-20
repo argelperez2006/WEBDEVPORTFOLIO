@@ -12,9 +12,8 @@ export default function AboutPage() {
         {/* Header Title */}
         <div className="space-y-2 border-b border-yellow-500/20 pb-4 flex flex-col sm:flex-row sm:items-end justify-between gap-4">
           <div>
-            <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-neutral-900 border border-yellow-500/30 text-xs font-mono text-yellow-400 mb-2">
-              <Terminal className="w-3.5 h-3.5 animate-pulse" />
-              <span>SYSTEM :: PROFILE_SLOTS</span>
+            <div>
+           
             </div>
             <h1 className="text-3xl md:text-5xl font-black text-white tracking-tight">
               About <span className="text-transparent bg-clip-text bg-gradient-to-r from-yellow-300 via-amber-400 to-yellow-500 drop-shadow-[0_0_15px_rgba(234,179,8,0.3)]">Argel</span>
